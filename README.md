@@ -1,1 +1,1 @@
-# jeuxPour2
+# jeuxPour2 (fait en binôme)
